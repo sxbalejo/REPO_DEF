@@ -1,2 +1,8 @@
 .ssh/
 .ssh/
+
+*.sln
+
+oh-my-zsh/
+bin/
+obj/
