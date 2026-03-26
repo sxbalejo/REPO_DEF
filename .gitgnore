@@ -4,9 +4,6 @@
 *.sln
 
 oh-my-zsh/
-bin/
-obj/
-
-
-#Elimina este archivo de configuracion
-.Json
+bin
+obj
+appsettings.Json
