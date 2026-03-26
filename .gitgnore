@@ -6,3 +6,7 @@
 oh-my-zsh/
 bin/
 obj/
+
+#Elimina este archivo de configuracion
+
+appsettings.Json
