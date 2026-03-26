@@ -8,5 +8,4 @@ bin/
 obj/
 
 #Elimina este archivo de configuracion
-
 appsettings.json
